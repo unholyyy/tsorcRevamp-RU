@@ -10005,7 +10005,7 @@ Mods: {
 				DisplayName: Король-чародей
 				DespawnHandler: Король-чародей требует ещё одну жертву...
 				Immune: Иммунитет!
-				// Restore: With a desperate scream the Witchking restores his shields, taking his final stand!
+				Restore: С отчаянным криком Король-чародей восстанавливает свои щиты, готовясь к последней схватке!
 			}
 
 			TestBoss: {
