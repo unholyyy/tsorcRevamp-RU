@@ -234,7 +234,7 @@ Mods: {
 		}
 
 		Events: {
-			Pinwheel: Пинвиле обращает свой взгляд на вас.
+			Pinwheel: Вертопрах обращает свой взгляд на вас.
 			Death: Настал роковой день твоей смерти.
 			QueenSlime: Королева Слизней выходит из своей священной пещеры!
 			GreatRedKnightInvasion: Великий красный рыцарь вторгся в ваш мир!
@@ -7722,7 +7722,7 @@ Mods: {
 			}
 
 			PinwheelBag: {
-				DisplayName: Мешок с сокровищами (Пинвиле)
+				DisplayName: Мешок с сокровищами (Вертопрах)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -7741,8 +7741,8 @@ Mods: {
 				Tooltip:
 					'''
 					Увеличивает здоровье на 40 и выносливость на 15 при ношении
-					Похоже, что Пинвиле держала его, чтобы
-					ожерелье, которое она носила, не высвободило всю свою силу
+					Похоже, что Вертопрах держал его, чтобы
+					ожерелье, которое он носил, не высвободило всю свою силу
 					'''
 			}
 
@@ -11183,15 +11183,15 @@ Mods: {
 			SandsprogMage.DisplayName: Песчаный бегун-маг
 
 			Pinwheel: {
-				DisplayName: Пинвиле
-				DespawnHandler1: Пинвиле возвращается к своим занятиям...
-				DespawnHandler2: Ярость Пинвиле утихает...
+				DisplayName: Вертопрах
+				DespawnHandler1: Вертопрах возвращается к своим занятиям...
+				DespawnHandler2: Ярость Вертопраха утихает...
 			}
 
 			GhostOfAHollowWarrior.DisplayName: Призрак пустого воина
 			GhostOfTheDrowned.DisplayName: Призрак утопленника
 			HollowSpearman.DisplayName: Пустой Копейщик
-			PinwheelFireball.DisplayName: Огненный шар Пинвиле
+			PinwheelFireball.DisplayName: Огненный шар Вертопраха
 			AbyssFracture.DisplayName: Разлом бездны
 			AbyssCataclysm.DisplayName: Катаклизм бездны
 			AttraidiesShield.DisplayName: Щит Аттрайдиса
